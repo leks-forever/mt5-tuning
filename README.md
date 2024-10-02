@@ -6,6 +6,7 @@ poetry install
 
 ### mT5-Tuning
 
+You can download the finetuned model from this [link](https://huggingface.co/leks-forever/mt5-base).
 
 ### Raw experimental solution
 <!--
